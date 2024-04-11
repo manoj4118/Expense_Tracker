@@ -1,7 +1,7 @@
 
 
 
-<h2 align="center">Project's Title</h2>
+<h2 align="center">Project Title</h2>
 <h1 align="center">Expense_Tracker</h1>
 <div>
 <img align="left" alt="coding" width="500px" height="500px" src="https://cdni.iconscout.com/illustration/premium/thumb/expense-management-4268366-3561009.png">
