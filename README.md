@@ -4,7 +4,7 @@
 <h2 align="center">Project Title</h2>
 <h1 align="center">Expense_Tracker</h1>
 <h2 align="left">Technologies Used:</h2>
-<h4 align="left">HTML CSS JAVASCRIPT CORE JAVA JDBC SERVLET JSP SQL MYSQL</h4>
+<h4 align="left">HTML CSS JAVASCRIPT React CORE JAVA SpringBoot MYSQL</h4>
 <div>
 <img align="left" alt="coding" width="500px" height="500px" src="https://cdni.iconscout.com/illustration/premium/thumb/expense-management-4268366-3561009.png">
   
